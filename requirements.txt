@@ -1,0 +1,4 @@
+sickle
+ipywidgets
+jupyter
+notebook
